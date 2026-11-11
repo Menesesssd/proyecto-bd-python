@@ -30,3 +30,5 @@ Tablas: cliente, detalle_pedido, entrega, pago, pedido, producto, repartidor.
 
 ## Integrantes
 - Alejandro Meneses
+- Juan Esteban Ravagli
+- Dilan Forero
