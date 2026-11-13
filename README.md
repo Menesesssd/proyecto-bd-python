@@ -18,8 +18,8 @@ Base de datos de Pedidos y Domicilios, manejada desde Python con PyMySQL.
 - py/conexion.py : prueba la conexión
 - py/tablas.py : muestra las tablas
 - py/ddl.py, dml.py, dql.py, vdl.py, dcl.py, tcl.py : un script por cada archivo de sql/commands
-- py/leer_<tabla>.py : lee todos los datos de una tabla
-- py/crud_<tabla>.py : agrega, cambia y borra una fila de prueba en una tabla
+- `py/leer_<tabla>.py` : lee todos los datos de una tabla
+- `py/crud_<tabla>.py` : agrega, cambia y borra una fila de prueba en una tabla
 
 Tablas: cliente, detalle_pedido, entrega, pago, pedido, producto, repartidor.
 
